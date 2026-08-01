@@ -2,4 +2,15 @@
 
 - ** Section 5: Databricks Notebooks **
     ✔ Introduction to Databricks Notebooks @done(26-08-01 15:04)
-    ☐ Databricks Magic Commands @started(26-08-01 15:04)
+    ✔ Databricks Magic Commands @started(26-08-01 15:04) @done(26-08-01 17:32) @lasted(2h28m59s)
+    ✔ Databricks Utilities @started(26-08-01 17:53) @done(26-08-01 17:53) @lasted(45s)
+    ✔ Debugging Databricks Notebooks @started(26-08-01 17:53) @done(26-08-01 18:20) @lasted(27m31s)
+
+- ** Section 6: Intro to Unity Catalog **
+    ☐ Introduction to Unity Catalog
+    ☐  Unity Catalog Object Model
+    ☐ Accessing Databricks Account
+    ☐ Create Unity Catalog Metastore
+    ☐ Configure Access to Cloud Storage
+    ☐  Configure Access to Cloud Storage Demo (Azure)
+    ☐  Configure Access to Cloud Storage Demo (Databricks)
