@@ -10,13 +10,14 @@
     ✔ Introduction to Unity Catalog @done(26-08-09 19:54)
     ✔  Unity Catalog Object Model @started(26-08-09 21:48) @done(26-08-09 22:46) @lasted(58m56s)
     ✔ Accessing Databricks Account @started(26-08-09 22:51) @done(26-08-09 23:20) @lasted(29m7s)
-    Tomorrow's tasks:
-        ☐ Create Unity Catalog Metastore
-        ☐ Configure Access to Cloud Storage
-        ☐  Configure Access to Cloud Storage Demo (Azure)
-        ☐  Configure Access to Cloud Storage Demo (Databricks)
+    ✔ Create Unity Catalog Metastore @done(26-08-12 22:50)
+    ✔ Configure Access to Cloud Storage @done(26-08-12 22:50)
+    ✔  Configure Access to Cloud Storage Demo (Azure) @done(26-08-12 23:07)
+    ☐  Configure Access to Cloud Storage Demo (Databricks)
 
+    
 - ** Section 7: Formula1 Project Overview **
-    ☐ Section Overview
-    ☐ Formula1 Data Overview
-    ☐ Project Requirement Overview
+Tomorrow's tasks:
+        ☐ Section Overview
+        ☐ Formula1 Data Overview
+        ☐ Project Requirement Overview
