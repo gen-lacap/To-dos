@@ -13,11 +13,16 @@
     ✔ Create Unity Catalog Metastore @done(26-08-12 22:50)
     ✔ Configure Access to Cloud Storage @done(26-08-12 22:50)
     ✔  Configure Access to Cloud Storage Demo (Azure) @done(26-08-12 23:07)
-    ☐  Configure Access to Cloud Storage Demo (Databricks)
+    ✔  Configure Access to Cloud Storage Demo (Databricks) @done(26-08-13 14:52)
 
     
 - ** Section 7: Formula1 Project Overview **
-Tomorrow's tasks:
-        ☐ Section Overview
-        ☐ Formula1 Data Overview
-        ☐ Project Requirement Overview
+    ✔ Section Overview @done(26-08-13 14:52)
+    ✔ Formula1 Data Overview @done(26-08-13 14:52)
+    ☐ Project Requirement Overview
+
+- ** Section 8: Formula1 Solution Overview **
+    ✔ Section Overview @done(26-08-13 15:08)
+    ✔ Intro to Data Lakehouse @started(26-08-13 15:08) @done(26-08-13 15:18) @lasted(10m12s)
+    ☐ Intro to Medallion Architecture
+    ☐ Formula1 - Solution Architecture Overview
