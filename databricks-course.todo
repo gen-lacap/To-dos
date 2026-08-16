@@ -24,5 +24,10 @@
 - ** Section 8: Formula1 Solution Overview **
     ✔ Section Overview @done(26-08-13 15:08)
     ✔ Intro to Data Lakehouse @started(26-08-13 15:08) @done(26-08-13 15:18) @lasted(10m12s)
-    ☐ Intro to Medallion Architecture
-    ☐ Formula1 - Solution Architecture Overview
+    ✔ Intro to Medallion Architecture @started(26-08-16 21:11) @done(26-08-16 21:17) @lasted(6m19s)
+    ✔ Formula1 - Solution Architecture Overview @started(26-08-16 21:17) @done(26-08-16 21:24) @lasted(7m39s)
+- ** Section 9: Formula1 Environment Set-up **
+Tomorrow's tasks:
+    ☐ Section Overview
+    ☐ Set-up Data Lake Project
+    ☐ Set-up Unity Catalog Project
