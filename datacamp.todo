@@ -1,0 +1,13 @@
+# DataCamp To-do
+# Associate Data En
+✔ - ** Intro to SQL ** ☐ Complete @done(26-08-17 23:48)
+- ** Intermediate SQL ** 
+    ✔ Selecting Data @done(26-08-17 23:51)
+    ✔ Filtering Records @done(26-08-18 00:06)
+    ☐ Aggregate Functions
+    ☐ Sorting and Grouping
+- ** Joining Data in SQL **
+    ☐ Introducing Inner Joins
+    ☐ Outer Joins, Cross Joins, Self Joins
+    ☐ Set Theory for SQL Joins
+    ☐ Subqueries
