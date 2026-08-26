@@ -27,7 +27,20 @@
     ✔ Intro to Medallion Architecture @started(26-08-16 21:11) @done(26-08-16 21:17) @lasted(6m19s)
     ✔ Formula1 - Solution Architecture Overview @started(26-08-16 21:17) @done(26-08-16 21:24) @lasted(7m39s)
 - ** Section 9: Formula1 Environment Set-up **
-Tomorrow's tasks:
-    ☐ Section Overview
-    ☐ Set-up Data Lake Project
-    ☐ Set-up Unity Catalog Project
+    ✔ Section Overview @done(26-08-26 12:35)
+    ✔ Set-up Data Lake Project @done(26-08-26 12:35)
+    ✔ Set-up Unity Catalog Project @started(26-08-26 12:46) @done(26-08-26 13:17) @lasted(31m47s)
+- ** Section 10: Data Ingestion Bronze **
+    ☐ Data Ingestion Overview
+    ☐ Circuits File - Requirements
+    ☐ Circuits File - Dataframe Reader
+    ☐ Circuits File - Specify Schema
+    ☐ Circuits File - Add Ingestion Metadata
+    ☐ Circuits File - Dataframe Writer
+    ☐ Races File - Ingestion (Assignment)
+    ☐ Refactor Code to Remove Hardcoded values
+    ☐ Refactor Code to Handle Repeated Logic
+    ☐ Constructors File - Ingestion
+    ☐ Drivers File - Ingestion
+    ☐ Results File - Ingestion (Assignment)
+    ☐ Sprints File - Ingestion
