@@ -12,3 +12,16 @@
     ✔ Creacte Azure Storage Account @done(26-09-26 20:55)
     ✔ Create Azure Data Lake Storage Gen2 @started(26-09-26 20:55) @done(26-09-26 21:03) @lasted(8m43s)
     ✔ Create Azure SQL Database @started(26-09-26 21:03) @done(26-09-26 21:19) @lasted(16m8s)
+
+- ** Section 4: Data Ingestion from Azure Blob **
+    ☐ Data Ingestion from Azure Blob Overview
+    ☐ Copy Activity Overview
+    ☐ Environment Preparation
+    ☐ Naming Standards
+    ☐ Linked Services & Datasets
+    ☐ Creating ADF Pipeline
+    ☐ Control Flow Activities (1) - Validation Activity
+    ☐ Contol Flow Activities (2) - Get Metadata, If Condition, Web Activities
+    ☐ Control Flow Activities (3) - Delete Activity
+    ☐ ADF Triggers Overview
+    ☐ Creating Event Trigger
