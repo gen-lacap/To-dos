@@ -5,7 +5,10 @@
     ✔ Azure Data Factory Overview @done(26-09-19 13:07)
     ✔ Project Overview @done(26-09-19 13:07)
     ✔ Solution Architecture Overview @done(26-09-19 13:07)
-    ☐ Azure Storage Solutions Overview
+    ✔ Azure Storage Solutions Overview @done(26-09-26 20:54)
 
 - ** Section 3: Environment Set-up **
-    
+    ✔ Create Azure Data Factory @done(26-09-26 20:55)
+    ✔ Creacte Azure Storage Account @done(26-09-26 20:55)
+    ☐ Create Azure Data Lake Storage Gen2 @started(26-09-26 20:55)
+    ☐ Create Azure SQL Database
