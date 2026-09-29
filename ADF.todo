@@ -14,13 +14,13 @@
     ✔ Create Azure SQL Database @started(26-09-26 21:03) @done(26-09-26 21:19) @lasted(16m8s)
 
 - ** Section 4: Data Ingestion from Azure Blob **
-    ☐ Data Ingestion from Azure Blob Overview
-    ☐ Copy Activity Overview
-    ☐ Environment Preparation
-    ☐ Naming Standards
-    ☐ Linked Services & Datasets
-    ☐ Creating ADF Pipeline
-    ☐ Control Flow Activities (1) - Validation Activity
+    ✔ Data Ingestion from Azure Blob Overview @done(26-09-29 12:11)
+    ✔ Copy Activity Overview @done(26-09-29 12:11)
+    ✔ Environment Preparation @started(26-09-29 12:11) @done(26-09-29 12:14) @lasted(3m26s)
+    ✔ Naming Standards @started(26-09-29 12:14) @done(26-09-29 12:19) @lasted(5m25s)
+    ✔ Linked Services & Datasets @started(26-09-29 12:21) @done(26-09-29 12:35) @lasted(14m57s)
+    ✔ Creating ADF Pipeline @done(26-09-29 21:59)
+    ✔ Control Flow Activities (1) - Validation Activity @started(26-09-29 21:59) @done(26-09-29 22:25) @lasted(26m45s)
     ☐ Contol Flow Activities (2) - Get Metadata, If Condition, Web Activities
     ☐ Control Flow Activities (3) - Delete Activity
     ☐ ADF Triggers Overview
