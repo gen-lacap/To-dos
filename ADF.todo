@@ -36,3 +36,16 @@
     ✔ Control Flow Activities @done(26-09-30 19:26)
     ✔ Linked Service Parameters @done(26-09-30 19:26)
     ✔ Metadata Driven Pipeline @done(26-09-30 19:26)
+
+- ** Section 6: Data Flows - Cases & Deaths Data Transformation **
+    ☐ Data Flows(1) - Module Overview
+    ☐ Introduction to Data Flows
+    ☐ Data Flow UI Overview
+    ☐ Transformation Requirement Overview
+    ☐ Source Transformation
+    ☐ Filter Transformation
+    ☐ Select Transformation
+    ☐ Pivot Transformation
+    ☐ Lookup Transformation
+    ☐ Sink Transformation
+    ☐ Create ADF Pipeline
