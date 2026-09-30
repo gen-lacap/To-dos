@@ -27,12 +27,12 @@
     ✔ Creating Event Trigger @done(26-09-30 14:05)
 
 - ** Section 5: Data Ingestion From HTTP **
-    ☐ Important - Recent Changes to ECDC Data
-    ☐ Data Ingestion from HTTP Overview
-    ☐ ECDC Data Overview
-    ☐ Create Pipeline
-    ☐ Pipeline Variables
-    ☐ Pipeline Parameters & Schedule Trigger
-    ☐ Control Flow Activities
-    ☐ Linked Service Parameters
-    ☐ Metadata Driven Pipeline
+    ✔ Important - Recent Changes to ECDC Data @done(26-09-30 14:08)
+    ✔ Data Ingestion from HTTP Overview @done(26-09-30 14:08)
+    ✔ ECDC Data Overview @started(26-09-30 14:08) @done(26-09-30 14:13) @lasted(5m46s)
+    ✔ Create Pipeline @started(26-09-30 14:13) @done(26-09-30 19:25) @lasted(5h12m59s)
+    ✔ Pipeline Variables @done(26-09-30 19:26)
+    ✔ Pipeline Parameters & Schedule Trigger @done(26-09-30 19:26)
+    ✔ Control Flow Activities @done(26-09-30 19:26)
+    ✔ Linked Service Parameters @done(26-09-30 19:26)
+    ✔ Metadata Driven Pipeline @done(26-09-30 19:26)
