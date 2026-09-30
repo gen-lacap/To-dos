@@ -25,3 +25,14 @@
     ✔ Control Flow Activities (3) - Delete Activity @done(26-09-30 01:34)
     ✔ ADF Triggers Overview @started(26-09-30 11:37) @done(26-09-30 14:05) @lasted(2h28m1s)
     ✔ Creating Event Trigger @done(26-09-30 14:05)
+
+- ** Section 5: Data Ingestion From HTTP **
+    ☐ Important - Recent Changes to ECDC Data
+    ☐ Data Ingestion from HTTP Overview
+    ☐ ECDC Data Overview
+    ☐ Create Pipeline
+    ☐ Pipeline Variables
+    ☐ Pipeline Parameters & Schedule Trigger
+    ☐ Control Flow Activities
+    ☐ Linked Service Parameters
+    ☐ Metadata Driven Pipeline
