@@ -21,7 +21,7 @@
     ✔ Linked Services & Datasets @started(26-09-29 12:21) @done(26-09-29 12:35) @lasted(14m57s)
     ✔ Creating ADF Pipeline @done(26-09-29 21:59)
     ✔ Control Flow Activities (1) - Validation Activity @started(26-09-29 21:59) @done(26-09-29 22:25) @lasted(26m45s)
-    ☐ Contol Flow Activities (2) - Get Metadata, If Condition, Web Activities
-    ☐ Control Flow Activities (3) - Delete Activity
-    ☐ ADF Triggers Overview
-    ☐ Creating Event Trigger
+    ✔ Contol Flow Activities (2) - Get Metadata, If Condition, Web Activities @done(26-09-30 01:34)
+    ✔ Control Flow Activities (3) - Delete Activity @done(26-09-30 01:34)
+    ✔ ADF Triggers Overview @started(26-09-30 11:37) @done(26-09-30 14:05) @lasted(2h28m1s)
+    ✔ Creating Event Trigger @done(26-09-30 14:05)
