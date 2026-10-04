@@ -49,3 +49,19 @@
     ✔ Lookup Transformation @done(26-10-04 23:24)
     ✔ Sink Transformation @done(26-10-04 23:24)
     ✔ Create ADF Pipeline @done(26-10-04 23:24)
+
+- ** Section 7: Data Flows - Hospital Admissions Data Transformation **
+    ☐ Data Flows(2) - Module Overview
+    ☐ Transformation Requirement
+    ☐ Source Transformation (Assignment)
+    ☐ Select Transformation (Assignment)
+    ☐ Lookup Country (Assignment)
+    ☐ Conditional Split Transformation
+    ☐ Source Transformation - DimDate
+    ☐ Derived Column Transformation
+    ☐ Aggregation Transformation
+    ☐ Join Transformation
+    ☐ Pivot Transformation (Assignment)
+    ☐ Sort Transformation (Assignment)
+    ☐ Sink Transformation (Assignment)
+    ☐ Create ADF Pipeline (Assignment)
