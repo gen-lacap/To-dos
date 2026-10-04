@@ -38,14 +38,14 @@
     ✔ Metadata Driven Pipeline @done(26-09-30 19:26)
 
 - ** Section 6: Data Flows - Cases & Deaths Data Transformation **
-    ☐ Data Flows(1) - Module Overview
-    ☐ Introduction to Data Flows
-    ☐ Data Flow UI Overview
-    ☐ Transformation Requirement Overview
-    ☐ Source Transformation
-    ☐ Filter Transformation
-    ☐ Select Transformation
-    ☐ Pivot Transformation
-    ☐ Lookup Transformation
-    ☐ Sink Transformation
-    ☐ Create ADF Pipeline
+    ✔ Data Flows(1) - Module Overview @done(26-09-30 19:30)
+    ✔ Introduction to Data Flows @done(26-09-30 20:29)
+    ✔ Data Flow UI Overview @done(26-09-30 21:07)
+    ✔ Transformation Requirement Overview @done(26-10-04 13:26)
+    ✔ Source Transformation @done(26-10-04 13:26)
+    ✔ Filter Transformation @done(26-10-04 13:26)
+    ✔ Select Transformation @done(26-10-04 13:26)
+    ✔ Pivot Transformation @done(26-10-04 23:24)
+    ✔ Lookup Transformation @done(26-10-04 23:24)
+    ✔ Sink Transformation @done(26-10-04 23:24)
+    ✔ Create ADF Pipeline @done(26-10-04 23:24)
